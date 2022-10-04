@@ -412,6 +412,7 @@ nowy wpis
 - [Sachin Kumar](https://github.com/Sachindrck)
 - [Niketh Malige](https://github.com/Niketh23)
 - [Marco Buontempo](https://github.com/marcobuontempo)
+- [Travis Boyd](https://github.com/TBoydDev)
 - [Abhinay](https://github.com/abhinyaay)
 - [mebeing-me](https://github.com/mebeing-me)
 - [Abhishek Kansal](https://github.com/abhishekkansal)
